@@ -1,0 +1,15 @@
+#estado {
+    display: none;
+}
+
+.Pendiente {
+    background-color: rgb(247, 178, 178);
+}
+
+.Terminada {
+    background-color: rgb(219, 255, 164);
+}
+
+.boton {
+    width: 80%;
+}
